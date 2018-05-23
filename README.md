@@ -1,4 +1,4 @@
-#How to execute the app
+# How to Run the App	
 * Go to /api_hotels folder.
 * Install dependecies `npm install`.
 * Start the feathersjs server with `npm start` command.
